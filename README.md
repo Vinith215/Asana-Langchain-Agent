@@ -50,7 +50,9 @@ python agents.py
 3️⃣ AI dynamically decides when to invoke the Asana API for task creation.  
 4️⃣ Chat history is maintained to enhance context-aware task management.
 
-Example Interaction:  
+
+### Example Interaction:  
 ```
 User: "Create a task for submitting the monthly report by March 30."
+
 AI: "Task 'Submit monthly report' created in Asana with a due date of March 30." 
