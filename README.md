@@ -40,7 +40,7 @@ LLM_MODEL=gpt-4o
 Anthropic_API_KEY=your_anthropic_api_key
 ```
 
-### 4️⃣ Run the Chatbot  
+### 3. Run the Chatbot  
 ```bash
 python agents.py
 
